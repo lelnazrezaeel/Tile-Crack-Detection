@@ -1,4 +1,4 @@
-# Tile-Crack-Detection
+# Tile-Crack-Segmentation
 In this project, we have developed a computer vision algorithm to detect cracks on the surface of tiles. Tile production can sometimes result in defects, such as the creation of cracks, and our goal is to identify these defects efficiently.
 
 ## <img width="25" height="25" src="https://img.icons8.com/dotty/80/41b883/overview-pages-2.png" alt="overview-pages-2"/> Overview
